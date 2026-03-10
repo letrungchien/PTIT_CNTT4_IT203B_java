@@ -2,7 +2,7 @@ package Session2.Bai3;
 
 public class Bai3 {
     public static void main(String[] args) {
-        
+
         String password = "123456";
 
         String encrypted = Authenticatable.encrypt(password);
