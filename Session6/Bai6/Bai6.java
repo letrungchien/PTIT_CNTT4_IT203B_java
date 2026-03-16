@@ -2,7 +2,7 @@ package Session6.Bai6;
 
 import java.util.Scanner;
 
-public class 2Bai6{
+public class Bai6{
 
     public static void main(String[] args) {
 
